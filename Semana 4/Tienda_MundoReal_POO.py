@@ -55,7 +55,7 @@ class TiendaVerduras:
         print(f"Verdura {nombre_verdura} no encontrada en la tienda.")
 
 
-# Se realiza un claro ejemplo para el desarrollo de la misma
+# Se ejecuta el programa
 if __name__ == "__main__":
     # Se crea una tienda de verduras
     tienda = TiendaVerduras("Tienda de Verduras Frescas")
