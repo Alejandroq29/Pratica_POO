@@ -1,3 +1,5 @@
+import os
+
 class Producto:
     def __init__(self, id, nombre, cantidad, precio):
         """Constructor de la clase Producto."""
